@@ -7,7 +7,7 @@ http://mherman.org/presentations/pycon-2018/#1
 
 ## Approaches
 
-* Write the dockerfiles and run them independantly. Run them using
+* Write the dockerfiles and run them independently. Run them using
 `docker run -i <image> <command>`
 
 ## Questions:
