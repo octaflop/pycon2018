@@ -105,3 +105,5 @@ The thing is: we want to manipulate without serialization
 # Manipulation without serialization
 
 Structure of an object
+
+`http://poshmodule.sourceforge.net/posh/posh.pdf`
